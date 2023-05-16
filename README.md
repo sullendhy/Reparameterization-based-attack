@@ -20,5 +20,5 @@ python distribution_learning.py
 ```
 
 ## 3. Acknowledgements
-This repository is built using the [FAIR](https://github.com/facebookresearch) repository. We thank C. Guo * et al. for their help. 
+This repository is built based on the [FAIR](https://github.com/facebookresearch) repository. We thank C. Guo * et al. for their help. 
 
