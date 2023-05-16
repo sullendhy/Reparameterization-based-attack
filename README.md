@@ -14,16 +14,11 @@ python text_classification.py
 Well-trained surrogate models are available [here](https://pan.baidu.com/s/106naPV71k8hrdagCidiTOg?pwd=8888).
 
 ## 2. Distribution learning on surrogate models
-To obtain a strong adversarial distribution based on a finetuned model after running ```text_classification.py``` 
+distribution_learning.py shows the core code of distribution learning, the complete code will be released soon.
 ```
-python whitebox_attack.py 
+python distribution_learning.py 
 ```
 
-## 3. black-box attack
-After attacking a model, run the following script to query a target model from the optimized adversarial distribution:
-```
-python evaluate_adv_samples.py 
-```
 ## 4. Acknowledgements
 This repository is built using the [FAIR](https://github.com/facebookresearch) repository. We thank C. Guo * et al. for their help. 
 
