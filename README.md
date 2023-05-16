@@ -19,6 +19,6 @@ distribution_learning.py shows the core code of distribution learning, the compl
 python distribution_learning.py 
 ```
 
-## 4. Acknowledgements
+## 3. Acknowledgements
 This repository is built using the [FAIR](https://github.com/facebookresearch) repository. We thank C. Guo * et al. for their help. 
 
